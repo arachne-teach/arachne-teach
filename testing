@@ -2,6 +2,7 @@
 //what's happening?
 //how are you?
 Yes
+<<<<<<< HEAD
 // Copyright (c) FIRST and other WPILib contributors.
 // Open Source Software; you can modify and/or share it under the terms of
 // the WPILib BSD license file in the root directory of this project.
@@ -160,3 +161,6 @@ public class Robot extends TimedRobot {
   @Override
   public void simulationPeriodic() {}
 }
+=======
+hi there
+>>>>>>> 0af044620f2734d0a7304c25848c75ed7180ff23
